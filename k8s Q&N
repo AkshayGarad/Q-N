@@ -1,0 +1,26 @@
+What is Kubernetes, and how does it differ from other container orchestration systems?
+What are the key components of a Kubernetes cluster, and what purpose does each one serve?
+What is the difference between a pod and a container in Kubernetes?
+What is a deployment in Kubernetes, and how is it used to manage containerized applications?
+What is a Kubernetes service, and how is it used to expose containers to the outside world?
+What is a Kubernetes namespace, and how is it used to organize resources within a cluster?
+What is the difference between a StatefulSet and a Deployment in Kubernetes?
+What is a Kubernetes ConfigMap, and how is it used to manage configuration data in a cluster?
+What is a Kubernetes secret, and how is it used to manage sensitive data in a cluster?
+How does Kubernetes handle container storage, and what types of storage options are available?
+What is a Kubernetes volume, and how is it used to provide persistent storage to containers?
+What is a Kubernetes Persistent Volume, and how is it used to provide persistent storage to containers?
+What is a Kubernetes StatefulSet, and how is it used to manage stateful applications?
+What is a Kubernetes DaemonSet, and how is it used to manage a set of pods running on every node in a cluster?
+What is a Kubernetes Job, and how is it used to run a batch process?
+What is a Kubernetes CronJob, and how is it used to run scheduled jobs?
+What is a Kubernetes HorizontalPodAutoscaler, and how is it used to automatically scale a deployment?
+What is a Kubernetes VerticalPodAutoscaler, and how is it used to automatically adjust resource requests and limits for containers?
+How does Kubernetes handle container networking, and what types of networking options are available?
+What is a Kubernetes service mesh, and how is it used to manage container networking?
+How does Kubernetes handle container security, and what types of security features are available?
+What is a Kubernetes RBAC, and how is it used to manage access control in a cluster?
+What is a Kubernetes Network Policy, and how is it used to manage network access control in a cluster?
+What is a Kubernetes PodSecurityPolicy, and how is it used to manage container security policies in a cluster?
+What is a Kubernetes Admission Controller, and how is it used to enforce policies and validate objects in a cluster?
+How does Kubernetes handle container monitoring and logging, and what types of monitoring and logging options are available?
