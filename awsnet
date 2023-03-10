@@ -1,0 +1,40 @@
+What is a Virtual Private Cloud (VPC) in AWS?
+How do you create a VPC in AWS?
+What is a subnet in AWS?
+How do you configure subnets in AWS?
+What is a route table in AWS?
+How do you configure routing in AWS?
+What is a security group in AWS?
+How do you create and configure security groups in AWS?
+What is an Elastic IP address in AWS?
+How do you associate an Elastic IP address with an EC2 instance?
+What is a Network Access Control List (NACL) in AWS?
+How do you configure NACLs in AWS?
+What is a load balancer in AWS?
+How do you create and configure a load balancer in AWS?
+What is Auto Scaling in AWS?
+How do you set up Auto Scaling in AWS?
+What is Route 53 in AWS?
+How do you configure Route 53 in AWS?
+What is a Direct Connect in AWS?
+How do you set up a Direct Connect in AWS?
+What is a VPN in AWS?
+How do you set up a VPN in AWS?
+What is a NAT gateway in AWS?
+How do you configure a NAT gateway in AWS?
+What is a VPC endpoint in AWS?
+How do you create and configure a VPC endpoint in AWS?
+What is a Transit Gateway in AWS?
+How do you configure a Transit Gateway in AWS?
+What is a Network Load Balancer in AWS?
+How do you create and configure a Network Load Balancer in AWS?
+What is a Virtual Private Gateway in AWS?
+How do you set up a Virtual Private Gateway in AWS?
+What is a Network Interface in AWS?
+How do you configure a Network Interface in AWS?
+What is a peering connection in AWS?
+How do you set up a peering connection in AWS?
+What is a bastion host in AWS?
+How do you configure a bastion host in AWS?
+What is a Security Token Service (STS) in AWS?
+How do you use STS in AWS for cross-account access?
