@@ -1,0 +1,40 @@
+What is Terraform and why is it used?
+What are the key benefits of using Terraform?
+How does Terraform differ from other infrastructure as code tools?
+What is a Terraform module?
+How does Terraform manage infrastructure state?
+What is the difference between Terraform's "apply" and "plan" commands?
+What is a provider in Terraform?
+How does Terraform interact with cloud providers like AWS or Azure?
+What are some best practices for using Terraform in production environments?
+How can you version control your Terraform configuration files?
+How do you manage secrets in Terraform?
+What are some common Terraform commands used in a CI/CD pipeline?
+How do you handle configuration drift with Terraform?
+What is the difference between Terraform's "terraform.tfvars" and "variables.tf" files?
+What is a Terraform workspace and how is it used?
+How do you debug Terraform configuration issues?
+What is the difference between "terraform init" and "terraform validate"?
+How do you handle changes to existing resources in Terraform?
+What are some common Terraform error messages and how do you troubleshoot them?
+What is the "terraform plan" output and how do you interpret it?
+What is Terraform's "remote state" feature and how is it used?
+What is the difference between a "resource" and a "data source" in Terraform?
+How do you create reusable Terraform configurations?
+What is the difference between Terraform's "count" and "for_each" features?
+What is the difference between Terraform's "output" and "locals" features?
+What is a "backend" in Terraform?
+How do you manage multiple environments (e.g., dev, stage, prod) with Terraform?
+What is a "null resource" in Terraform and how is it used?
+What is a "local-exec" provisioner in Terraform?
+How do you manage Terraform modules developed by third-party contributors?
+What is the difference between "terraform destroy" and "terraform state rm"?
+How do you manage sensitive data in Terraform Cloud?
+What is the difference between Terraform Cloud and Terraform Enterprise?
+How does Terraform handle resource dependencies?
+What is the difference between "terraform workspace select" and "terraform workspace new"?
+How do you manage custom Terraform providers?
+What is the difference between "terraform refresh" and "terraform plan"?
+How do you handle Terraform configuration changes that require manual intervention?
+What is the Terraform Registry and how is it used?
+What is the difference between "terraform init" and "terraform get"?
