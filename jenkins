@@ -1,0 +1,40 @@
+What is Jenkins?
+How is Jenkins used in DevOps?
+What are the key features of Jenkins?
+What is a Jenkins pipeline?
+What is the difference between a freestyle project and a pipeline project in Jenkins?
+How do you set up a Jenkins job?
+What are the different types of plugins available in Jenkins?
+How do you manage plugins in Jenkins?
+What is the Jenkinsfile?
+How do you create a pipeline in Jenkins?
+What are some best practices for writing Jenkins pipelines?
+How do you integrate Jenkins with version control systems like Git?
+How do you trigger a Jenkins build from a code change in Git?
+What are some common Jenkins build triggers?
+What is the Jenkins build queue and how does it work?
+How do you configure Jenkins to send email notifications?
+What is a Jenkins slave and how is it used?
+How do you configure Jenkins to run builds on multiple agents?
+What is the Jenkins pipeline syntax?
+What is the difference between a stage and a step in a Jenkins pipeline?
+How do you debug Jenkins pipeline failures?
+What are some common Jenkins pipeline plugins?
+How do you manage environment variables in Jenkins?
+What is the difference between a scripted and declarative pipeline in Jenkins?
+How do you secure Jenkins?
+What is the Jenkins security realm?
+How do you manage user permissions in Jenkins?
+What is the Jenkins credentials plugin and how is it used?
+How do you configure Jenkins to deploy code to a server?
+What is the difference between a Jenkins job and a Jenkinsfile?
+How do you set up a Jenkins build for a Java application?
+What is the Jenkins build log and how is it used?
+How do you archive build artifacts in Jenkins?
+What is the difference between a post-build action and a post-stage action in Jenkins?
+How do you configure Jenkins to run builds on a schedule?
+What is a Jenkins build wrapper and how is it used?
+How do you manage build dependencies in Jenkins?
+What is the Jenkins Blue Ocean plugin and how is it used?
+How do you manage Jenkins backup and restore?
+What is the Jenkins CLI and how is it used?
