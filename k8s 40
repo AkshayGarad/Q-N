@@ -1,0 +1,40 @@
+What is Kubernetes?
+What are the benefits of using Kubernetes?
+How does Kubernetes help with container orchestration?
+Can you explain what a Kubernetes Pod is?
+What is a Kubernetes Deployment?
+What is a Kubernetes Service?
+What is a Kubernetes Namespace?
+How do you scale a Kubernetes Deployment?
+What is the difference between a Kubernetes StatefulSet and Deployment?
+How does Kubernetes manage container networking?
+How does Kubernetes handle container storage?
+How does Kubernetes handle container security?
+What is a Kubernetes ConfigMap?
+What is a Kubernetes Secret?
+How do you monitor Kubernetes clusters?
+What is a Kubernetes Node?
+What is a Kubernetes Cluster?
+What is a Kubernetes ReplicaSet?
+What is a Kubernetes DaemonSet?
+What is a Kubernetes Job?
+What is a Kubernetes CronJob?
+What is a Kubernetes Ingress?
+How do you create a Kubernetes Cluster?
+How do you upgrade a Kubernetes Cluster?
+How do you perform rolling updates in Kubernetes?
+What is Kubernetes Dashboard?
+How do you create a Kubernetes Manifest file?
+What is the difference between Kubernetes Deployment and StatefulSet?
+What is Horizontal Pod Autoscaling (HPA)?
+What is Vertical Pod Autoscaling (VPA)?
+What is Cluster Autoscaling in Kubernetes?
+What is a Kubernetes ConfigMap?
+What is a Kubernetes Secret?
+How do you backup Kubernetes data?
+What is the difference between Kubernetes and Docker Swarm?
+What is the difference between Kubernetes and Mesos?
+How does Kubernetes handle node failure?
+How does Kubernetes handle application failure?
+What is a Kubernetes Operator?
+What is Kubernetes Federation?
