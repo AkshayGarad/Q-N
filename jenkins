@@ -38,3 +38,55 @@ How do you manage build dependencies in Jenkins?
 What is the Jenkins Blue Ocean plugin and how is it used?
 How do you manage Jenkins backup and restore?
 What is the Jenkins CLI and how is it used?
+
+
+What is Jenkins and what is its purpose in a DevOps pipeline?
+What are some of the advantages of using Jenkins in a DevOps pipeline?
+How does Jenkins help in Continuous Integration (CI) and Continuous Deployment (CD)?
+What are the different types of Jenkins builds?
+What is a Jenkinsfile and what is its purpose?
+What are Jenkins plugins and how do they work?
+How can you integrate Jenkins with AWS services?
+What are the different types of jobs in Jenkins?
+How do you set up a Jenkins job?
+What is a Jenkins pipeline and how is it different from other types of jobs?
+What is a Jenkins slave and how is it used?
+How do you manage Jenkins nodes?
+What is the Jenkins Distributed Build architecture?
+What is a Jenkins build agent and how is it used?
+How do you configure Jenkins for security?
+How do you manage Jenkins users and roles?
+What is a Jenkins build trigger and how is it used?
+How do you monitor and troubleshoot Jenkins jobs?
+What are some of the best practices for using Jenkins in a DevOps pipeline?
+How do you manage Jenkins logs?
+What are the different types of Jenkins build triggers?
+How do you set up a Jenkins build trigger?
+What is the Jenkins workspace and how is it used?
+How do you manage Jenkins artifacts?
+What is a Jenkins parameter and how is it used?
+How do you set up Jenkins notifications?
+What is a Jenkins executor and how is it used?
+How do you integrate Jenkins with source control systems like Git?
+How do you set up Jenkins for continuous delivery?
+How do you manage Jenkins pipelines?
+How do you set up Jenkins for scalability?
+How do you manage Jenkins configurations?
+How do you set up Jenkins backups and restores?
+How do you manage Jenkins plugins?
+How do you use Jenkins to deploy code to production?
+How do you manage Jenkins secrets?
+What are some common issues with Jenkins pipelines and how do you troubleshoot them?
+How do you set up Jenkins to run tests?
+How do you manage Jenkins builds in a team environment?
+What is a Jenkins checkpoint and how is it used?
+How do you set up Jenkins for CD with Kubernetes?
+What are some of the benefits of using Jenkins with AWS CodePipeline?
+How do you set up Jenkins for CD with AWS CodeDeploy?
+How do you use Jenkins to deploy to multiple environments?
+What are some of the best practices for using Jenkins in a multi-team environment?
+How do you use Jenkins with Docker?
+How do you use Jenkins with AWS Elastic Beanstalk?
+How do you set up Jenkins for automated security testing?
+How do you set up Jenkins for automated performance testing?
+How do you set up Jenkins for automated load testing?
